@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supermanoz&label=Profile%20views&color=0e75b6&style=flat" alt="supermanoz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/superman__oz" target="blank"><img src="https://img.shields.io/twitter/follow/ma_class?logo=twitter&style=for-the-badge" alt="ma_class" /></a> </p>
+<p align="left"> <a href="https://twitter.com/superman__oz" target="blank"><img src="https://img.shields.io/twitter/follow/superman__oz?logo=twitter&style=for-the-badge" alt="superman__oz" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack, Flutter**
 
