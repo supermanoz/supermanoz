@@ -26,7 +26,7 @@
 <a href="https://twitter.com/superman__oz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ma_class" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manojbasnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manojbasnet" height="30" width="40" /></a>
 <a href="https://instagram.com/superman_oz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="superman_oz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/manoj basnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manoj basnet" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/manoj basnet](https://www.youtube.com/channel/UCBYrH9yHiLrFGHPZSK1gIKA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manoj basnet" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
