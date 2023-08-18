@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/superman__oz" target="blank"><img src="https://img.shields.io/twitter/follow/superman__oz?logo=twitter&style=for-the-badge" alt="superman__oz" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack, Flutter**
+- 🌱 I’m currently learning **Java, Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/supermanoz](https://github.com/supermanoz)
 
-- 📝 I regularly write articles on [https://manozb.com.np](https://manozb.com.np)
+- 📝 I regularly write articles on [https://manozb.com.np/ojblogs](https://manozb.com.np/ojblogs)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Spring Boot Framework**
 
 - 📫 How to reach me **basnetm02@gmail.com**
 
